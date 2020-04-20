@@ -36,7 +36,7 @@ h1{
 
 @media (max-width: 991px) {
   .dice{
-    height: 700px;
+    height: 500px;
     width: 700px;
   }
 }
