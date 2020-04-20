@@ -1,0 +1,36 @@
+body{
+  background-color: #202040;
+  text-align: center;
+  overflow: hidden;
+}
+
+h1{
+  color : #00bdaa;
+  font-family: "Lobster",sans-serif;
+  font-size: 7rem;
+}
+
+.seg{
+  padding: 0;
+}
+
+.player{
+  color : #00bdaa;
+  font-family: "Indie Flower",sans-serif;
+  font-size: 2rem;
+}
+
+.dice{
+  height: 250px;
+  width: 250px;
+}
+
+.me{
+  color : #84a9ac;
+  font-family: "Indie Flower",sans-serif;
+  font-size: 1rem;
+}
+
+.foot{
+  padding: 5% 15% 2%;
+}
