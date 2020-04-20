@@ -33,3 +33,10 @@ h1{
 .foot{
   padding: 5% 15% 2%;
 }
+
+@media (max-width: 991px) {
+  .dice{
+    height: 700px;
+    width: 700px;
+  }
+}
