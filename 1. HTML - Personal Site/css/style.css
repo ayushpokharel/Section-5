@@ -1,0 +1,14 @@
+h1 {
+  color: #543864;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+body {
+  background-color: powderblue;
+}
